@@ -1,0 +1,17 @@
+/Users/dragosandrei/Documents/weather/bin/Debug/net7.0/weather
+/Users/dragosandrei/Documents/weather/bin/Debug/net7.0/weather.deps.json
+/Users/dragosandrei/Documents/weather/bin/Debug/net7.0/weather.runtimeconfig.json
+/Users/dragosandrei/Documents/weather/bin/Debug/net7.0/weather.dll
+/Users/dragosandrei/Documents/weather/bin/Debug/net7.0/weather.pdb
+/Users/dragosandrei/Documents/weather/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/dragosandrei/Documents/weather/obj/Debug/net7.0/weather.csproj.AssemblyReference.cache
+/Users/dragosandrei/Documents/weather/obj/Debug/net7.0/weather.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dragosandrei/Documents/weather/obj/Debug/net7.0/weather.AssemblyInfoInputs.cache
+/Users/dragosandrei/Documents/weather/obj/Debug/net7.0/weather.AssemblyInfo.cs
+/Users/dragosandrei/Documents/weather/obj/Debug/net7.0/weather.csproj.CoreCompileInputs.cache
+/Users/dragosandrei/Documents/weather/obj/Debug/net7.0/weather.csproj.CopyComplete
+/Users/dragosandrei/Documents/weather/obj/Debug/net7.0/weather.dll
+/Users/dragosandrei/Documents/weather/obj/Debug/net7.0/refint/weather.dll
+/Users/dragosandrei/Documents/weather/obj/Debug/net7.0/weather.pdb
+/Users/dragosandrei/Documents/weather/obj/Debug/net7.0/weather.genruntimeconfig.cache
+/Users/dragosandrei/Documents/weather/obj/Debug/net7.0/ref/weather.dll
