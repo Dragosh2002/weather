@@ -21,7 +21,7 @@ class Program
     Console.WriteLine("Enter a city name:");
     string cityName = Console.ReadLine();
 
-    Console.WriteLine("Enter your API key:");
+    Console.WriteLine("Enter your API key:"); //get api key from website openweathermap.org
     string apiKey = Console.ReadLine();
 
     WeatherData data = await GetWeatherDataAsync(cityName, apiKey);
@@ -61,5 +61,5 @@ class Program
 }
 }
 
-//api key 836fd53b601381d78199d71c4a7812cf
+
 
